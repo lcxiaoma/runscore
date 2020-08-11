@@ -46,7 +46,7 @@
 
 | 新增收款码 | 收款码 | 接单记录 |
 | :------: | :------: | :------: |
-| ![新增收款码](https://www.helloimg.com/images/2020/08/11/shoukuanma26679a4bce41c5d7e.png) | ![收款码](https://www.helloimg.com/images/2020/08/11/shoukuanma5e26a3f80380c35a.png) | ![接单记录](https://www.helloimg.com/images/2020/07/04/jiedanjilu1023cd84c28f948a.png) |
+| ![新增收款码](https://www.helloimg.com/images/2020/08/11/shoukuanma26679a4bce41c5d7e.png) | ![收款码](https://www.helloimg.com/images/2020/08/11/shoukuanma5e26a3f80380c35a.png) | ![接单记录](https://www.helloimg.com/images/2020/08/11/jiedanjilu16ef060e242394ec.png) |
 
 | 我的团队 | 设置返点 | 推荐二维码 |
 | :------: | :------: | :------: |
