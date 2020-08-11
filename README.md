@@ -34,11 +34,11 @@
 
 | 我的主页 | 接单 | 审核 |
 | :------: | :------: | :------: |
-| ![我的主页](https://www.helloimg.com/images/2020/08/11/zhuye6359e0d1f0ef65cc.png) | ![接单](https://www.helloimg.com/images/2020/07/04/jiedanff4507ddc8060159.png) | ![审核](https://www.helloimg.com/images/2020/07/04/shenhed5871c193be4ad27.png) |
+| ![我的主页](https://www.helloimg.com/images/2020/08/11/zhuye6359e0d1f0ef65cc.png) | ![接单](https://www.helloimg.com/images/2020/08/11/jiedand55e2adc1f7e254f.png) | ![审核](https://www.helloimg.com/images/2020/08/11/shenhe126357e1b3e3b6d4.png) |
 
 | 充值 | 银行卡充值 | 充值记录 |
 | :------: | :------: | :------: |
-| ![充值](https://www.helloimg.com/images/2020/08/11/chongzhiea3689e5e29f9fa5.png) | ![银行卡充值](https://www.helloimg.com/images/2020/07/04/chongzhi25930941f32ff6092.png) | ![充值记录](https://www.helloimg.com/images/2020/08/11/chongzhi367ba8b2fcbfad492.png) |
+| ![充值](https://www.helloimg.com/images/2020/08/11/chongzhiea3689e5e29f9fa5.png) | ![银行卡充值](https://www.helloimg.com/images/2020/08/11/chongzhi24459a03adb5841ef.png) | ![充值记录](https://www.helloimg.com/images/2020/08/11/chongzhi367ba8b2fcbfad492.png) |
 
 | 提现 | 发起申诉 | 申诉记录 |
 | :------: | :------: | :------: |
@@ -46,15 +46,15 @@
 
 | 新增收款码 | 收款码 | 接单记录 |
 | :------: | :------: | :------: |
-| ![新增收款码](https://www.helloimg.com/images/2020/07/04/shoukuanma28dc808edbf09fde0.png) | ![收款码](https://www.helloimg.com/images/2020/07/04/shoukuanmab9aa3e848741d748.png) | ![接单记录](https://www.helloimg.com/images/2020/07/04/jiedanjilu1023cd84c28f948a.png) |
+| ![新增收款码](https://www.helloimg.com/images/2020/08/11/shoukuanma26679a4bce41c5d7e.png) | ![收款码](https://www.helloimg.com/images/2020/08/11/shoukuanma5e26a3f80380c35a.png) | ![接单记录](https://www.helloimg.com/images/2020/07/04/jiedanjilu1023cd84c28f948a.png) |
 
 | 我的团队 | 设置返点 | 推荐二维码 |
 | :------: | :------: | :------: |
-| ![我的团队](https://www.helloimg.com/images/2020/07/04/wodetuanduic3a8b20e0785519f.png) | ![设置返点](https://www.helloimg.com/images/2020/08/11/tuijianerweima42d3f834059a73ae.png) | ![推荐二维码](https://www.helloimg.com/images/2020/08/11/tuijianerweima2a07ada7f4507222d.png) |
+| ![我的团队](https://www.helloimg.com/images/2020/08/11/wodetuandui2fc9e55bc0cbc7fa.png) | ![设置返点](https://www.helloimg.com/images/2020/08/11/tuijianerweima42d3f834059a73ae.png) | ![推荐二维码](https://www.helloimg.com/images/2020/08/11/tuijianerweima2a07ada7f4507222d.png) |
 
 | 绑定银行卡 | 设置 | 绑定谷歌验证器 |
 | :------: | :------: | :------: |
-| ![绑定银行卡](https://www.helloimg.com/images/2020/07/04/yinhangkabf2c635aa2f7ce3f.png) | ![设置](https://www.helloimg.com/images/2020/07/04/shezhib64ce9211a314897.png) | ![绑定谷歌验证器](https://www.helloimg.com/images/2020/07/04/gugeyanzhengma51eedc1f002e1572.png) |
+| ![绑定银行卡](https://www.helloimg.com/images/2020/08/11/yinhangkab6986750385a94d1.png) | ![设置](https://www.helloimg.com/images/2020/08/11/shezhi172ff88a46fe91e7.png) | ![绑定谷歌验证器](https://www.helloimg.com/images/2020/08/11/gugeyanzhengmadebf9183f11f7442.png) |
 
 
 > 由于程序不断优化，界面细节可能有所变化，请以实际页面为准
